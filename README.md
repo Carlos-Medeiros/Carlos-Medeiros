@@ -1,4 +1,4 @@
-## Olá! Eu sou Carlos Medeiros
+## Olá, me chamo Carlos Medeiros :)
 
 <div align="center">
   <a href="https://github.com/Carlos-Medeiros">
